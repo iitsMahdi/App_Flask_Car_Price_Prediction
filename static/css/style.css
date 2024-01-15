@@ -1,0 +1,18 @@
+.body{
+    margin:  0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+
+}
+.bg-dark{
+    background-image: url('car.jpg'); 
+    background-size: cover; 
+    background-position: center;
+}
+.mt-50
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
